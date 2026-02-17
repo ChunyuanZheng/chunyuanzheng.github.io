@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://chunyuanzheng.github.io/</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/AAAI%2026%20-%20Unified%20Minimax%20Optimization%20Framework%20for%20Propensity%20Score%20Estimation%20in%20Debiased%20Recommendation.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/AAAI%2026%20-%20Uplift%20Modeling%20with%20Delayed%20Feedback-Identifiability%20and%20Algorithms.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/KDD%2025%20-%20Mitigating%20Data%20Imbalance%20in%20Time%20Series%20Classification%20Based%20on%20Counterfactual%20Minority%20Samples%20Augmentation.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/SIGIR%2025%20-%20Adaptive%20Structure%20Learning%20with%20Partial%20Parameter%20Sharing%20for%20Post-Click%20Conversion%20Rate%20Prediction.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/CVPR%2025%20-%20Visual%20Representation%20Learning%20through%20Causal%20Intervention%20for%20Controllable%20Image%20Editing.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/CVPR%2025%20-%20Text-Driven%20Fashion%20Image%20Editing%20with%20Compositional%20Concept%20Learning%20and%20Counterfactual%20Abduction.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/WWW%2025%20-%20CAP%20Causal%20Air%20Quality%20Index%20Prediction%20Under%20Interference%20with%20Unmeasured%20Confounding.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/AAAI%2025%20-%20Decomposing%20and%20Fusing%20Intra-%20and%20Inter-Sensor%20Spatio-Temporal%20Signal%20for%20Multi-Sensor%20Wearable%20Human%20Activity%20Recognition.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/AAAI%2025%20-%20HiPoser%203D%20Human%20Pose%20Estimation%20with%20Hierarchical%20Shared%20Learning%20at%20Parts-Level%20Using%20Inertial%20Measurement%20Units.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/KDD%2025%20-%20A%20Two-Stage%20Pretraining-Finetuning%20Framework%20for%20Treatment%20Effect%20Estimation%20with%20Unmeasured%20Confounding.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/KDD%2025%20-%20Classifying%20Treatment%20Responders%20Bounds%20and%20Algorithms.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/KDD%2024%20-%20Debiased%20Recommendation%20with%20Noisy%20Feedback.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/ICML%2024%20-%20Relaxing%20the%20Accurate%20Imputation%20Assumption%20in%20Doubly%20Robust%20Learning%20for%20Debiased%20Collaborative%20Filtering.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/ICLR%2024%20-%20Debiased%20Collaborative%20Filtering%20with%20Kernel-Based%20Causal%20Balancing.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/ICLR%2024%20-%20Be%20Aware%20of%20the%20Neighborhood%20Effect%20Modeling%20Selection%20Bias%20under%20Interference.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/ICDE%2024%20-%20Uncovering%20the%20Propensity%20Identification%20Problem%20in%20Debiased%20Recommendations.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/NeurIPS%2023%20-%20Removing%20Hidden%20Confounding%20in%20Recommendation%20A%20Unified%20Multi-Task%20Learning%20Approach.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/MM%2023%20-%20Pareto%20Invariant%20Representation%20Learning%20for%20Multimedia%20Recommendation.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/RecSys%2023%20-%20ADRNet%20A%20Generalized%20Collaborative%20Filtering%20Framework%20Combining%20Clinical%20and%20Non-Clinical%20Data%20for%20Adverse%20Drug%20Reaction%20Prediction.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/KDD%2023%20-%20Who%20Should%20Be%20Given%20Incentives%20Counterfactual%20Optimal%20Treatment%20Regimes%20Learning%20for%20Recommendation.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/ICML%2023%20-%20Propensity%20Matters%20Measuring%20and%20Enhancing%20Balancing%20for%20Recommendation.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/ICML%2023%20-%20Trustworthy%20Policy%20Learning%20under%20the%20Counterfactual%20No-Harm%20Criterion.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/WWW%2023%20-%20Balancing%20Unobserved%20Confounding%20with%20a%20Few%20Unbiased%20Ratings%20in%20Debiased%20Recommendations.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/ICLR%2023%20-%20TDR-CL%20Targeted%20Doubly%20Robust%20Collaborative%20Learning%20for%20Debiased%20Recommendations.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/ICLR%2023%20-%20StableDR%20Stabilized%20Doubly%20Robust%20Learning%20for%20Recommendation%20on%20Data%20Missing%20Not%20at%20Random.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/%E4%B8%80%E7%A7%8D%E5%AD%98%E5%9C%A8%E5%BB%B6%E8%BF%9F%E5%8F%8D%E9%A6%88%E7%9A%84%E8%8D%AF%E7%89%A9%E4%B8%8D%E8%89%AF%E5%8F%8D%E5%BA%94%E9%A2%84%E6%B5%8B%E6%96%B9%E6%B3%95%E5%92%8C%E7%B3%BB%E7%BB%9F.PDF</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/%E5%9F%BA%E4%BA%8E%E9%9D%9E%E9%9A%8F%E6%9C%BA%E7%BC%BA%E5%A4%B1%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%BB%93%E5%B1%80%E6%B5%8B%E9%87%8F%E8%AF%AF%E5%B7%AE%E7%9A%84%E6%8E%A8%E8%8D%90%E6%96%B9%E6%B3%95%E5%92%8C%E7%B3%BB%E7%BB%9F.PDF</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/%E4%B8%80%E7%A7%8D%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95.PDF</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%BC%BA%E5%A4%B1%E6%95%B0%E6%8D%AE%E5%A1%AB%E8%A1%A5%E7%9A%84%E6%8E%A8%E8%8D%90%E6%96%B9%E6%B3%95%E5%92%8C%E7%B3%BB%E7%BB%9F.PDF</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/%E5%8F%8D%E4%BA%8B%E5%AE%9E%E5%85%AC%E5%B9%B3%E6%80%A7%E7%9A%84%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95%E3%80%81%E9%A2%84%E6%B5%8B%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6%E8%A3%85%E7%BD%AE.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/%E4%B8%80%E7%A7%8D%E6%BB%A1%E8%B6%B3%E5%8F%8D%E4%BA%8B%E5%AE%9E%E6%97%A0%E5%AE%B3%E6%A0%87%E5%87%86%E7%9A%84%E5%8F%AF%E4%BF%A1%E7%AD%96%E7%95%A5%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E5%8F%8A%E8%A3%85%E7%BD%AE.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chunyuanzheng.github.io/papers/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E4%B8%AD%E5%8C%BB%E8%AF%81%E7%B4%A0%E9%A2%84%E6%B5%8B%E6%96%B9%E6%B3%95.pdf</loc>
+  <lastmod>2026-02-17T11:27:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
